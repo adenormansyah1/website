@@ -1,1 +1,26 @@
-
+[
+  {
+    "nama": "PKH (Program Keluarga Harapan)",
+    "kategori": "Keluarga & Pendidikan",
+    "deskripsi": "Bantuan bersyarat bagi keluarga miskin/rentan yang terdaftar di DTKS.",
+    "nominal": "Hingga Rp3.000.000 / tahun",
+    "status": "Aktif",
+    "link": "https://cekbansos.kemensos.go.id/"
+  },
+  {
+    "nama": "BPNT (Bantuan Pangan Non Tunai)",
+    "kategori": "Sembako",
+    "deskripsi": "Bantuan pangan senilai Rp200.000 per bulan yang disalurkan melalui KKS.",
+    "nominal": "Rp200.000 / bulan",
+    "status": "Aktif",
+    "link": "https://cekbansos.kemensos.go.id/"
+  },
+  {
+    "nama": "PIP (Program Indonesia Pintar)",
+    "kategori": "Pendidikan",
+    "deskripsi": "Bantuan tunai pendidikan untuk siswa SD, SMP, hingga SMA/SMK.",
+    "nominal": "Rp450.000 - Rp1.800.000 / tahun",
+    "status": "Aktif",
+    "link": "https://pip.kemdikbud.go.id/"
+  }
+]
